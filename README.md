@@ -1,5 +1,7 @@
 # Unit 13 Mini-Project: Travel Planner
 
+Please click this [link](https://sheltered-shelf-46998.herokuapp.com/) to view deployed Heroku application.
+
 In this mini-project, you will work with a group to build an API using Node.js, Express.js, MySQL, and Sequelize, and you will deploy it to Heroku.
 
 ## User Stories
